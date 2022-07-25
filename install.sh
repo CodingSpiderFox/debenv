@@ -1,3 +1,4 @@
 #!/bin/bash
 
-sudo apt install simple-scan
+sudo apt install xsane \
+                 simple-scan
